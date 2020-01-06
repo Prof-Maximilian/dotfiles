@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1578220436,,"wq"
+|2,0,1578344747,,"wq"
 :q
 |2,0,1578219931,,"q"
 :q!
@@ -42,230 +42,246 @@ $
 |3,0,36,0,1,0,1578188868,">"
 
 # File marks:
-'0  5  7  ~/.gitignore
-|4,48,5,7,1578220436,"~/.gitignore"
-'1  20  6  ~/.gitignore
-|4,49,20,6,1578220133,"~/.gitignore"
-'2  19  6  ~/.gitignore
-|4,50,19,6,1578220133,"~/.gitignore"
-'3  11  43  ~/.gitignore
-|4,51,11,43,1578220016,"~/.gitignore"
-'4  14  9  ~/.gitignore
-|4,52,14,9,1578220016,"~/.gitignore"
-'5  10  43  ~/.gitignore
-|4,53,10,43,1578220016,"~/.gitignore"
-'6  13  9  ~/.gitignore
-|4,54,13,9,1578220016,"~/.gitignore"
-'7  8  0  ~/.git
-|4,55,8,0,1578219931,"~/.git"
-'8  1  0  ~/.gitignore
-|4,56,1,0,1578219861,"~/.gitignore"
-'9  1  0  ~/.gitignore
-|4,57,1,0,1578219861,"~/.gitignore"
+'0  62  53  ~/.bashrc
+|4,48,62,53,1578344747,"~/.bashrc"
+'1  62  82  ~/.bashrc
+|4,49,62,82,1578344679,"~/.bashrc"
+'2  62  131  ~/.bashrc
+|4,50,62,131,1578344494,"~/.bashrc"
+'3  62  131  ~/.bashrc
+|4,51,62,131,1578344494,"~/.bashrc"
+'4  62  147  ~/.bashrc
+|4,52,62,147,1578344460,"~/.bashrc"
+'5  62  147  ~/.bashrc
+|4,53,62,147,1578344460,"~/.bashrc"
+'6  62  147  ~/.bashrc
+|4,54,62,147,1578344460,"~/.bashrc"
+'7  62  147  ~/.bashrc
+|4,55,62,147,1578344460,"~/.bashrc"
+'8  62  134  ~/.bashrc
+|4,56,62,134,1578344285,"~/.bashrc"
+'9  62  134  ~/.bashrc
+|4,57,62,134,1578344285,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  62  53  ~/.bashrc
+|4,39,62,53,1578344747,"~/.bashrc"
+-'  62  82  ~/.bashrc
+|4,39,62,82,1578344679,"~/.bashrc"
+-'  62  131  ~/.bashrc
+|4,39,62,131,1578344494,"~/.bashrc"
+-'  62  147  ~/.bashrc
+|4,39,62,147,1578344460,"~/.bashrc"
+-'  62  134  ~/.bashrc
+|4,39,62,134,1578344285,"~/.bashrc"
+-'  62  135  ~/.bashrc
+|4,39,62,135,1578344222,"~/.bashrc"
+-'  62  52  ~/.bashrc
+|4,39,62,52,1578344114,"~/.bashrc"
+-'  62  56  ~/.bashrc
+|4,39,62,56,1578344075,"~/.bashrc"
+-'  62  64  ~/.bashrc
+|4,39,62,64,1578343985,"~/.bashrc"
+-'  62  72  ~/.bashrc
+|4,39,62,72,1578343441,"~/.bashrc"
+-'  62  77  ~/.bashrc
+|4,39,62,77,1578341202,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578340976,"~/.bashrc"
+-'  99  0  ~/.bashrc
+|4,39,99,0,1578335681,"~/.bashrc"
+-'  62  109  ~/.bashrc
+|4,39,62,109,1578335634,"~/.bashrc"
+-'  62  109  ~/.bashrc
+|4,39,62,109,1578248144,"~/.bashrc"
+-'  62  89  ~/.bashrc
+|4,39,62,89,1578248091,"~/.bashrc"
+-'  62  84  ~/.bashrc
+|4,39,62,84,1578221319,"~/.bashrc"
+-'  62  59  ~/.bashrc
+|4,39,62,59,1578220995,"~/.bashrc"
+-'  62  53  ~/.bashrc
+|4,39,62,53,1578220666,"~/.bashrc"
+-'  62  53  ~/.bashrc
+|4,39,62,53,1578220565,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
+-'  96  15  ~/.bashrc
+|4,39,96,15,1578220540,"~/.bashrc"
 -'  5  7  ~/.gitignore
 |4,39,5,7,1578220436,"~/.gitignore"
--'  20  6  ~/.gitignore
-|4,39,20,6,1578220424,"~/.gitignore"
--'  19  6  ~/.gitignore
-|4,39,19,6,1578220133,"~/.gitignore"
--'  11  43  ~/.gitignore
-|4,39,11,43,1578220099,"~/.gitignore"
--'  10  43  ~/.gitignore
-|4,39,10,43,1578220099,"~/.gitignore"
--'  14  9  ~/.gitignore
-|4,39,14,9,1578220016,"~/.gitignore"
--'  13  9  ~/.gitignore
-|4,39,13,9,1578220016,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219937,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219937,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219937,"~/.gitignore"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219931,"~/.git"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219861,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219861,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219753,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219753,"~/.gitignore"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  8  0  ~/.git
-|4,39,8,0,1578219724,"~/.git"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219702,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219702,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219702,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1578219702,"~/.gitignore"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
--'  6  0  ~/Documents/php/index.php
-|4,39,6,0,1578188894,"~/Documents/php/index.php"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
+-'  5  7  ~/.gitignore
+|4,39,5,7,1578220436,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.bashrc
+	*	1578344746	0
+	"	62	53
+	^	62	54
+	.	62	53
+	+	94	21
+	+	91	0
+	+	94	21
+	+	95	25
+	+	100	0
+	+	96	16
+	+	100	0
+	+	62	110
+	+	98	24
+	+	62	53
 
 > ~/.gitignore
 	*	1578220435	0
@@ -316,16 +332,3 @@ $
 	^	6	0
 	.	5	2
 	+	5	2
-
-> ~/.bashrc
-	*	1577885678	0
-	"	96	15
-	^	96	16
-	.	97	0
-	+	94	21
-	+	91	0
-	+	94	21
-	+	95	25
-	+	97	0
-	+	96	16
-	+	97	0

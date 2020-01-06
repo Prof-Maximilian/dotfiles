@@ -59,7 +59,7 @@ fi
 if [ "$color_prompt" = yes ]; then
     PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
 else
-    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+    PS1='  ${debian_chroot:+($debian_chroot)}\[\033[01;36m\]\u\[\033[00m\]@\[\033[01;36m\]\H\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\n\[\033[01;32m\]>\[\033[00m\]'
 fi
 unset color_prompt force_color_prompt
 
@@ -94,6 +94,9 @@ alias ll='ls -al'
 alias sys='systemctl'
 alias dc='docker-compose'
 alias d='docker'
+alias dps='docker ps -a'
+alias di='docker images'
+
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
