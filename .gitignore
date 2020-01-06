@@ -8,6 +8,7 @@
 .ssh/
 .vscode-server/
 .wget-hsts
+.viminfo
 .xsession-errors
 backup/
 Desktop/

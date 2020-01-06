@@ -1,0 +1,12 @@
+1. add ssh status, something like 
+if [ -n "$SSH_CLIENT" ]; then text=" ssh-session"
+fi
+export PS1='[e[1;32m]u@h:w${text}$[e[m] '
+
+2. add tty info(?)
+\l\[$(tput sgr0)\]
+
+info:
+https://www.linux.com/tutorials/how-make-fancy-and-useful-bash-prompt-linux/
+http://bashrcgenerator.com/
+https://www.thegeekstuff.com/2008/09/bash-shell-ps1-10-examples-to-make-your-linux-prompt-like-angelina-jolie/
